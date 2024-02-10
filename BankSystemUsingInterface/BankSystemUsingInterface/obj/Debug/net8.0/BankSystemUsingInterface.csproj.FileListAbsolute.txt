@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\bin\Debug\net8.0\BankSystemUsingInterface.exe
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\bin\Debug\net8.0\BankSystemUsingInterface.deps.json
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\bin\Debug\net8.0\BankSystemUsingInterface.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\bin\Debug\net8.0\BankSystemUsingInterface.dll
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\bin\Debug\net8.0\BankSystemUsingInterface.pdb
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.sourcelink.json
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.dll
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\refint\BankSystemUsingInterface.dll
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.pdb
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\BankSystemUsingInterface.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Interface\BankSystemUsingInterface\BankSystemUsingInterface\obj\Debug\net8.0\ref\BankSystemUsingInterface.dll

@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\bin\Debug\net8.0\InterfaceImplementsType.exe
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\bin\Debug\net8.0\InterfaceImplementsType.deps.json
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\bin\Debug\net8.0\InterfaceImplementsType.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\bin\Debug\net8.0\InterfaceImplementsType.dll
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\bin\Debug\net8.0\InterfaceImplementsType.pdb
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.sourcelink.json
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.dll
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\refint\InterfaceImplementsType.dll
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.pdb
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\InterfaceImplementsType.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Interface\InterfaceImplementsType\InterfaceImplementsType\obj\Debug\net8.0\ref\InterfaceImplementsType.dll
