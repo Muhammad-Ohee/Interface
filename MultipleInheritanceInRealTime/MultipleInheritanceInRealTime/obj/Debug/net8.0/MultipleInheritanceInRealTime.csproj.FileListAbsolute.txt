@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\bin\Debug\net8.0\MultipleInheritanceInRealTime.exe
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\bin\Debug\net8.0\MultipleInheritanceInRealTime.deps.json
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\bin\Debug\net8.0\MultipleInheritanceInRealTime.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\bin\Debug\net8.0\MultipleInheritanceInRealTime.dll
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\bin\Debug\net8.0\MultipleInheritanceInRealTime.pdb
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.sourcelink.json
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.dll
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\refint\MultipleInheritanceInRealTime.dll
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.pdb
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\MultipleInheritanceInRealTime.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Interface\MultipleInheritanceInRealTime\MultipleInheritanceInRealTime\obj\Debug\net8.0\ref\MultipleInheritanceInRealTime.dll
